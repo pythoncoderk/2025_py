@@ -2,16 +2,16 @@ h, w = map(int, input().split())
 
 l = [list(input()) for i in range(h)]
 
-count = 0
+# print(l)
+
 for i in range(h):
     for j in range(w):
-        if j == 0:
-            if l[i][j + 1] == "#":
+        if i == 0:
+            if l[i + 1][j] == "#":
                 print(i, j)
-        elif j == w - 1:
-            if l[i][j - 1] == "#":
+        elif i == h - 1:
+            if l[i - 1][j] == "#":
                 print(i, j)
         else:
-            if l[i][j - 1] == "#" and l[i][j + 1] == "#":
+            if l[i + 1][j] == "#" and l[i - 1][j] == "#":
                 print(i, j)
-
