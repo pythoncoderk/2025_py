@@ -5,83 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55714fd7-78d5-4d71-8613-ce52c15c5f4f" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/0126_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0126_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0126_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0126_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0126_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0126_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0126_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0127_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0127_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0127_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0127_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0128_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0128_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0128_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0128_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0118_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0118_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0118_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_23.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_24.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_25.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_26.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119_9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0120_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0120_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0120_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0120_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0120_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0120_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0120_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0121_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0121_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0121_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0122_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0122_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0122_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0122_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0122_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0122_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0122_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0122_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0122_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0122_9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0123_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0123_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0123_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0124_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0124_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0125_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0125_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0125_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0125_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0125_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0125_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0125_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0125_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0125_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0125_9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0126_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/0126_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,6 +166,10 @@
     "Python.0127_2.executor": "Run",
     "Python.0127_3.executor": "Run",
     "Python.0127_4.executor": "Run",
+    "Python.0128_1.executor": "Run",
+    "Python.0128_2.executor": "Run",
+    "Python.0128_3.executor": "Run",
+    "Python.0128_4.executor": "Run",
     "Python.103_2.executor": "Run",
     "Python.111_10.executor": "Debug",
     "Python.111_11.executor": "Debug",
@@ -249,95 +181,7 @@
     "last_opened_file_path": "C:/Users/turnt/OneDrive/デスクトップ/Python/2025"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.0127_4">
-    <configuration name="0126_14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="2025" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0126_14.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="0127_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="2025" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0127_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="0127_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="2025" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0127_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="0127_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="2025" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0127_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.0128_4">
     <configuration name="0127_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
@@ -360,13 +204,101 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="0128_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0128_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0128_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0128_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0128_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0128_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0128_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0128_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.0128_4" />
+        <item itemvalue="Python.0128_3" />
+        <item itemvalue="Python.0128_2" />
+        <item itemvalue="Python.0128_1" />
         <item itemvalue="Python.0127_4" />
-        <item itemvalue="Python.0127_3" />
-        <item itemvalue="Python.0127_2" />
-        <item itemvalue="Python.0127_1" />
-        <item itemvalue="Python.0126_14" />
       </list>
     </recent_temporary>
   </component>
@@ -420,6 +352,16 @@
           <url>file://$PROJECT_DIR$/0127_3.py</url>
           <line>4</line>
           <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0128_3.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0128_4.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
