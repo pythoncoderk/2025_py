@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55714fd7-78d5-4d71-8613-ce52c15c5f4f" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/0208_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0208_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0208_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0208_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0208_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0209_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0209_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0209_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0210_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0210_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0210_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0210_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0210_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0210_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -209,7 +219,19 @@
     "Python.0207_1.executor": "Run",
     "Python.0207_2.executor": "Run",
     "Python.0208_1.executor": "Run",
-    "Python.0208_2.executor": "Run",
+    "Python.0208_2.executor": "Debug",
+    "Python.0208_4.executor": "Run",
+    "Python.0208_5.executor": "Run",
+    "Python.0208_6.executor": "Run",
+    "Python.0209_1.executor": "Run",
+    "Python.0209_2.executor": "Run",
+    "Python.0209_3.executor": "Run",
+    "Python.0210_1.executor": "Run",
+    "Python.0210_2.executor": "Run",
+    "Python.0210_3.executor": "Run",
+    "Python.0210_4.executor": "Run",
+    "Python.0210_5.executor": "Run",
+    "Python.0210_6.executor": "Run",
     "Python.103_2.executor": "Run",
     "Python.111_10.executor": "Debug",
     "Python.111_11.executor": "Debug",
@@ -222,8 +244,8 @@
     "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.0208_2">
-    <configuration name="0205_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0210_6">
+    <configuration name="0210_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -236,7 +258,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0205_7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0210_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,7 +267,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0207_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0210_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,7 +280,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0207_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0210_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +289,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0207_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0210_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -280,7 +302,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0207_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0210_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0208_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0210_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -302,7 +324,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0208_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0210_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,7 +333,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0208_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0210_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -324,7 +346,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0208_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0210_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,11 +357,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0208_2" />
-        <item itemvalue="Python.0208_1" />
-        <item itemvalue="Python.0207_2" />
-        <item itemvalue="Python.0207_1" />
-        <item itemvalue="Python.0205_7" />
+        <item itemvalue="Python.0210_6" />
+        <item itemvalue="Python.0210_5" />
+        <item itemvalue="Python.0210_4" />
+        <item itemvalue="Python.0210_3" />
+        <item itemvalue="Python.0210_2" />
       </list>
     </recent_temporary>
   </component>
@@ -433,6 +455,11 @@
           <url>file://$PROJECT_DIR$/0207_1.py</url>
           <line>6</line>
           <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0209_3.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="68" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
