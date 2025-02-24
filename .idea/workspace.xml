@@ -5,23 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55714fd7-78d5-4d71-8613-ce52c15c5f4f" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/0222_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0222_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0222_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0223_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0223_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0223_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0223_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0223_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0223_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0223_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0223_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0223_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2222.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0222_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0222_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0222_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0222_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0223_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0223_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0223_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0223_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0223_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0223_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0223_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0223_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0224_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0224_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0224_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0224_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0224_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0224_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0224_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_0224.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_0224_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,8 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python テスト.Doctest Cal.add_num_and_double.executor": "Run",
+    "Python テスト.test_0224.test_h の Python テスト.executor": "Run",
+    "Python テスト.test_0224.test_two の Python テスト.executor": "Run",
     "Python.0102_4.executor": "Run",
     "Python.0103_1.executor": "Run",
     "Python.0103_3.executor": "Run",
@@ -287,6 +289,14 @@
     "Python.0222_6.executor": "Run",
     "Python.0222_7.executor": "Run",
     "Python.0223_1.executor": "Run",
+    "Python.0223_10.executor": "Run",
+    "Python.0223_11.executor": "Run",
+    "Python.0223_12.executor": "Run",
+    "Python.0223_13.executor": "Run",
+    "Python.0223_14.executor": "Debug",
+    "Python.0223_15.executor": "Run",
+    "Python.0223_16.executor": "Run",
+    "Python.0223_17.executor": "Run",
     "Python.0223_2.executor": "Run",
     "Python.0223_3.executor": "Run",
     "Python.0223_4.executor": "Run",
@@ -295,6 +305,12 @@
     "Python.0223_7.executor": "Run",
     "Python.0223_8.executor": "Run",
     "Python.0223_9.executor": "Run",
+    "Python.0224_1.executor": "Run",
+    "Python.0224_18.executor": "Run",
+    "Python.0224_19.executor": "Run",
+    "Python.0224_2.executor": "Run",
+    "Python.0224_3.executor": "Run",
+    "Python.0224_4.executor": "Run",
     "Python.103_2.executor": "Run",
     "Python.111_10.executor": "Debug",
     "Python.111_11.executor": "Debug",
@@ -312,8 +328,8 @@
       <recent name="C:\Users\turnt\OneDrive\デスクトップ\Python\2025" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.0223_9">
-    <configuration name="0223_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python テスト.test_0224.test_h の Python テスト">
+    <configuration name="0224_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -326,7 +342,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0223_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0224_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,7 +351,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0223_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0224_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -348,7 +364,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0223_6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0224_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -357,7 +373,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0223_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0224_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -370,7 +386,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0223_7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0224_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -379,57 +395,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0223_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_0224.test_h の Python テスト" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0223_8.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_0224.test_h&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="0223_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_0224.test_two の Python テスト" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0223_9.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_0224.test_two&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0223_9" />
-        <item itemvalue="Python.0223_8" />
-        <item itemvalue="Python.0223_7" />
-        <item itemvalue="Python.0223_6" />
-        <item itemvalue="Python.0223_5" />
+        <item itemvalue="Python テスト.test_0224.test_h の Python テスト" />
+        <item itemvalue="Python テスト.test_0224.test_two の Python テスト" />
+        <item itemvalue="Python.0224_4" />
+        <item itemvalue="Python.0224_3" />
+        <item itemvalue="Python.0224_2" />
       </list>
     </recent_temporary>
   </component>
@@ -503,6 +505,26 @@
           <url>file://$PROJECT_DIR$/0223_9.py</url>
           <line>9</line>
           <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0223_13.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0223_14.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0224_2.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0224_3.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="111" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
