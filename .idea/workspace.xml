@@ -5,16 +5,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55714fd7-78d5-4d71-8613-ce52c15c5f4f" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/0224_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0224_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0225_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0225_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0225_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0225_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0225_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0225_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0225_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0226_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0226_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0226_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0226_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0226_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0226_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0226_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0226_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0226_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0226_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0226_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0226_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0214_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0214_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0214_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0214_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0214_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0215_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0215_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0217_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218＿1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0219_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0219_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0219_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0221_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0221_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0222_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0222_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0222_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0223_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0223_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0223_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0223_12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0223_13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0223_14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0223_15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0223_16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0223_17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0223_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0223_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0223_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0223_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0223_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0223_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0223_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0223_9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0224_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0224_18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0224_19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0224_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0224_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0224_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0224_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0224_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0224_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0225_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0225_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0225_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0225_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0225_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0225_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0225_7.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -311,6 +364,18 @@
     "Python.0225_4.executor": "Run",
     "Python.0225_5.executor": "Run",
     "Python.0225_6.executor": "Debug",
+    "Python.0225_7.executor": "Debug",
+    "Python.0226_1.executor": "Run",
+    "Python.0226_10.executor": "Run",
+    "Python.0226_11.executor": "Run",
+    "Python.0226_12.executor": "Run",
+    "Python.0226_2.executor": "Run",
+    "Python.0226_3.executor": "Run",
+    "Python.0226_4.executor": "Run",
+    "Python.0226_5.executor": "Run",
+    "Python.0226_6.executor": "Run",
+    "Python.0226_7.executor": "Run",
+    "Python.0226_9.executor": "Run",
     "Python.103_2.executor": "Run",
     "Python.111_10.executor": "Debug",
     "Python.111_11.executor": "Debug",
@@ -328,8 +393,8 @@
       <recent name="C:\Users\turnt\OneDrive\デスクトップ\Python\2025" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.0225_7">
-    <configuration name="0225_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0226_12">
+    <configuration name="0226_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -342,7 +407,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0225_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0226_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,7 +416,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0225_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0226_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -364,7 +429,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0225_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0226_11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -373,7 +438,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0225_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0226_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -386,7 +451,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0225_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0226_12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -395,7 +460,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0225_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0226_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -408,7 +473,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0225_6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0226_7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -417,7 +482,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0225_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0226_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -430,7 +495,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0225_7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0226_9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -441,11 +506,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0225_7" />
-        <item itemvalue="Python.0225_6" />
-        <item itemvalue="Python.0225_5" />
-        <item itemvalue="Python.0225_4" />
-        <item itemvalue="Python.0225_3" />
+        <item itemvalue="Python.0226_12" />
+        <item itemvalue="Python.0226_11" />
+        <item itemvalue="Python.0226_10" />
+        <item itemvalue="Python.0226_9" />
+        <item itemvalue="Python.0226_7" />
       </list>
     </recent_temporary>
   </component>
@@ -471,89 +536,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0214_6.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0215_3.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0217_1.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0219_1.py</url>
+          <url>file://$PROJECT_DIR$/0226_3.py</url>
           <line>2</line>
-          <option name="timeStamp" value="94" />
+          <option name="timeStamp" value="115" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0219_3.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="95" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0222_7.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0223_3.py</url>
+          <url>file://$PROJECT_DIR$/0226_12.py</url>
           <line>2</line>
-          <option name="timeStamp" value="97" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0223_4.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="98" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0223_6.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="99" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0223_9.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="100" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0223_13.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="101" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0223_14.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="102" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0224_2.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="110" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0224_3.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="111" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0224_6.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="112" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0225_6.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="113" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0225_7.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="114" />
+          <option name="timeStamp" value="116" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
