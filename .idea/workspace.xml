@@ -5,15 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55714fd7-78d5-4d71-8613-ce52c15c5f4f" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/0419_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0419_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0419_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0419_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0420_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0421_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0421_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0421_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0421_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0422_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0422_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0425_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0425_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0426_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0426_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0426_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0426_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0426_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0426_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0426_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0426_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0426_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0426_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0426_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0426_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0426_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -460,6 +468,21 @@
     "Python.0421_2.executor": "Debug",
     "Python.0421_3.executor": "Debug",
     "Python.0421_4.executor": "Run",
+    "Python.0422_1.executor": "Run",
+    "Python.0422_2.executor": "Run",
+    "Python.0425_2.executor": "Run",
+    "Python.0426_1.executor": "Run",
+    "Python.0426_10.executor": "Run",
+    "Python.0426_11.executor": "Run",
+    "Python.0426_12.executor": "Run",
+    "Python.0426_2.executor": "Run",
+    "Python.0426_3.executor": "Run",
+    "Python.0426_4.executor": "Run",
+    "Python.0426_5.executor": "Run",
+    "Python.0426_6.executor": "Run",
+    "Python.0426_7.executor": "Run",
+    "Python.0426_8.executor": "Run",
+    "Python.0426_9.executor": "Run",
     "Python.103_2.executor": "Run",
     "Python.111_10.executor": "Debug",
     "Python.111_11.executor": "Debug",
@@ -477,8 +500,8 @@
       <recent name="C:\Users\turnt\OneDrive\デスクトップ\Python\2025" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.0421_4">
-    <configuration name="0419_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0426_13">
+    <configuration name="0426_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -491,7 +514,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0419_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0426_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -500,7 +523,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0421_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0426_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -513,7 +536,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0421_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0426_11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -522,7 +545,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0421_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0426_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -535,7 +558,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0421_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0426_12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -544,7 +567,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0421_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0426_13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -557,7 +580,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0421_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0426_13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -566,7 +589,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0421_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0426_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -579,7 +602,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0421_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0426_9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -590,11 +613,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0421_4" />
-        <item itemvalue="Python.0421_3" />
-        <item itemvalue="Python.0421_2" />
-        <item itemvalue="Python.0421_1" />
-        <item itemvalue="Python.0419_4" />
+        <item itemvalue="Python.0426_13" />
+        <item itemvalue="Python.0426_12" />
+        <item itemvalue="Python.0426_11" />
+        <item itemvalue="Python.0426_10" />
+        <item itemvalue="Python.0426_9" />
       </list>
     </recent_temporary>
   </component>
@@ -672,6 +695,16 @@
           <url>file://$PROJECT_DIR$/0421_3.py</url>
           <line>5</line>
           <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0426_1.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0426_4.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="185" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
