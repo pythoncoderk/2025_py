@@ -5,17 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55714fd7-78d5-4d71-8613-ce52c15c5f4f" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/old/0822_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0822_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0822_33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0822_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0823_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0823_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0823_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0829_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0829_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/0829_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/0831_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/0831_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/0906_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/0907_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/0907_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/0907_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/0910_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/0910_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/0910_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/0910_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old/0816_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/0816_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -640,6 +641,15 @@
     "Python.0823_2.executor": "Run",
     "Python.0829_1.executor": "Debug",
     "Python.0829_2.executor": "Run",
+    "Python.0829_3.executor": "Run",
+    "Python.0831_1.executor": "Run",
+    "Python.0906_1.executor": "Run",
+    "Python.0907_1.executor": "Run",
+    "Python.0907_2.executor": "Run",
+    "Python.0910_1.executor": "Run",
+    "Python.0910_2.executor": "Run",
+    "Python.0910_3.executor": "Run",
+    "Python.0910_4.executor": "Run",
     "Python.103_2.executor": "Run",
     "Python.111_10.executor": "Debug",
     "Python.111_11.executor": "Debug",
@@ -662,8 +672,8 @@
       <recent name="C:\Users\turnt\OneDrive\デスクトップ\Python\2025" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.0829_2">
-    <configuration name="0822_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0910_4">
+    <configuration name="0907_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -676,7 +686,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/old/0822_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/old/0907_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -685,7 +695,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0823_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0910_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -698,7 +708,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/old/0823_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/old/0910_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -707,7 +717,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0823_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0910_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -720,7 +730,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/old/0823_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/old/0910_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -729,7 +739,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0829_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0910_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -742,7 +752,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/old/0829_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/old/0910_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -751,7 +761,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0829_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0910_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -764,7 +774,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/old/0829_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/old/0910_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -775,11 +785,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0829_2" />
-        <item itemvalue="Python.0829_1" />
-        <item itemvalue="Python.0823_2" />
-        <item itemvalue="Python.0823_1" />
-        <item itemvalue="Python.0822_4" />
+        <item itemvalue="Python.0910_4" />
+        <item itemvalue="Python.0910_3" />
+        <item itemvalue="Python.0910_2" />
+        <item itemvalue="Python.0910_1" />
+        <item itemvalue="Python.0907_2" />
       </list>
     </recent_temporary>
   </component>
@@ -842,6 +852,26 @@
           <url>file://$PROJECT_DIR$/old/0829_2.py</url>
           <line>5</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/old/0831_1.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/old/0907_1.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/old/0907_2.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/old/0910_3.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
