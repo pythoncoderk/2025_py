@@ -1,6 +1,6 @@
 n = input()
 
-if n == "いしん":
+if n == "":
     print("かわいい")
 else:
     print("うんこ")
